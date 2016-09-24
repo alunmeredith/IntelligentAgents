@@ -11,7 +11,11 @@ infodb/
 .idea/
 logs/
 public_html/
-
+../EvolutionOfComplexity/*
+../FoundDataScience/*
+./*
+../IntelligentAgents/
+../Machine_learning
 
 AdXAgent/.idea/workspace.xml
 AdXAgent/.idea/*
